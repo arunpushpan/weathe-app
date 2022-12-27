@@ -1,0 +1,18 @@
+.content{
+background-image: url(https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2022/10/CLI371.weather.crepuscular_rays_mario_widmer.jpg);
+background-size: cover;    
+border-radius: 10px;
+    height: 400px;
+}
+.place{
+    /* width: 300px; */
+    height: 40px;
+    border-radius: 5px;
+    border-color: black;
+}
+b{
+    font-size: 40px;
+}
+.head{
+    font-family: 'Prosto One', cursive;
+}
